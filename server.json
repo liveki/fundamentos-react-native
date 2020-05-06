@@ -2,27 +2,39 @@
   "products": [
     {
       "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 50
+      "title": "Cadeira Gamer",
+      "image_url": "https://s3-sa-east-1.amazonaws.com/images.anymarket.com.br/234335734./E91D2D05A41FF3936A5DE2B8B3117301/standard_resolution.jpg",
+      "price": 300
     },
     {
       "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 60
+      "title": "Headset Razer Kraken",
+      "image_url": "https://i.zst.com.br/images/headset-com-microfone-razer-kraken-essential-p2-photo501318448-12-30-1a.jpg",
+      "price": 459
     },
     {
       "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 70
+      "title": "Monitor Curvo Samsung Full HD",
+      "image_url": "https://images3.kabum.com.br/produtos/fotos/94933/94933_1_1519128954_g.jpg",
+      "price": 599
     },
     {
       "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 80
+      "title": "Teclado Razer Blackwidow Chroma",
+      "image_url": "https://opiniaobomvaleapena.com.br/imagens/teclado-gamer-razer-blackwidow-chroma-pc.png",
+      "price": 899
+    },
+    {
+      "id": "4321",
+      "title": "Mouse Corsair Dark Core",
+      "image_url": "https://cdn.awsli.com.br/600x450/1065/1065246/produto/46399451/7d14e28292.jpg",
+      "price": 399
+    },
+    {
+      "id": "54321",
+      "title": "GeForce GTX 1050 TI",
+      "image_url": "https://i.zst.com.br/images/placa-de-video-nvidia-geforce-gtx-1050-ti-4-gb-gddr5-128-bits-asus-cerberus-gtx1050ti-a4g-photo517487111-12-13-13.jpg",
+      "price": 999
     }
   ]
 }
